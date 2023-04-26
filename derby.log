@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 26 03:16:50 UTC 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0187-bb90-50bc-0000145cf290 
+on database directory /home/hx152/Project/tweet_project/Dataset/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@67cb9d05 
+Loaded from file:/usr/bigdata/spark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_361-b09
+user.dir=/home/hx152/Project/tweet_project/XinranZhao/Tweet-database-project
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-1160.83.1.el7.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
